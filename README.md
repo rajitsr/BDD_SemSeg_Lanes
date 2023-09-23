@@ -46,6 +46,6 @@ Download the dataset in a folder "dataset" and arrange the data in the following
 
 ## Sample annotations
 
-![Sample annotation](/assets/images/electrocat.png)
+![Sample annotation](/assets/images/annotation_sample.png)
 
     
