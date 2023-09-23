@@ -46,6 +46,10 @@ Download the dataset in a folder "dataset" and arrange the data in the following
 
 ## Sample annotations
 
-![Sample annotation](/assets/images/annotation_sample.png)
+[![Sample annotation](annotation_sample.png)](https://drive.google.com/file/d/1GKPcgUVFgBdHzjd-GU3hpLp7DnR_xXlD/view?usp=sharing)
 
+## Evaluation
+
+Using Paddleseg framework, PP_LiteSeg architecture was trained using our dataset and the following was the inference obtained
+[![inference_result](inference_result.png)](https://drive.google.com/file/d/17WX0eiKi1nLrB3-khpHwwt3SFDOnNPou/view?usp=sharing)
     
