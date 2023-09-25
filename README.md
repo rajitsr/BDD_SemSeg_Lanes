@@ -4,7 +4,7 @@ Here we provide the download and pre-processing instructions for the BDD_SemSeg_
 
 ## Main Features
 -76000 annotated images
--10 lane classes e.g., Parallel_dashed_double, Parallel_dashed_single
+-11 lane classes e.g., Parallel_dashed_double, Parallel_dashed_single
 
 ## Attribution
 BDD_SemSeg_Lanes is built upon [BDD100K](https://arxiv.org/abs/1805.04687) Dataset
@@ -13,7 +13,7 @@ If you use BDD_SemSeg_Lanes dataset, please cite it using the following:
 
     @ARTICLE {BDD_SemSeg_Lanes,
     author = {Rajalakshmi TS, R Senthilnathan},
-    journal = {Journal of Advanced Transportation},
+    journal = {},
     title = {BDD_SemSeg_Lanes - A Manifold Driving Dataset for Lane Detection and Classification for Autonomous Vehicles},
     year = {},
     volume = {},
@@ -22,7 +22,7 @@ If you use BDD_SemSeg_Lanes dataset, please cite it using the following:
     pages = {},
     keywords = {autonomous driving; lane classification; real-time segmentation; deep learning},
     doi = {},
-    publisher = {Hindawi},
+    publisher = {},
     address = {},
     month = {}
     }
