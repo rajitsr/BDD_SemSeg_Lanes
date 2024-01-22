@@ -46,6 +46,7 @@ Download the dataset in a folder "dataset" and arrange the data in the following
     │   │   ├── test}
 
 ## Sample annotations
+![image](https://github.com/rajitsr/BDD_SemSeg_Lanes/assets/67737942/10c1bb5e-9c92-46b0-a37e-1226ec2378fb)
 
 [![Sample annotation](annotation_sample.png)](https://drive.google.com/file/d/1GKPcgUVFgBdHzjd-GU3hpLp7DnR_xXlD/view?usp=sharing)
 
