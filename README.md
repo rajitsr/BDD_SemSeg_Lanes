@@ -28,7 +28,8 @@ If you use BDD_SemSeg_Lanes dataset, please cite it using the following:
     }
 
 ## Download
-you can download the Train-Val-set videos and annotations from our [Google Drive Folder](https://drive.google.com/drive/folders/1f-FgSjEyKFtVl6bh4zCESebYNLGUGXJ8?usp=sharing)
+Upon request, the dataset will be made available. 
+You can download the Train-Val-set videos and annotations from our [Google Drive Folder](https://drive.google.com/drive/folders/1f-FgSjEyKFtVl6bh4zCESebYNLGUGXJ8?usp=sharing)
 
 The directory should look like this
 
