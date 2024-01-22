@@ -1,6 +1,6 @@
 # SemSeg_Lanes
 
-Here we provide the download and pre-processing instructions for the BDD_SemSeg_Lanes dataset, that is released through our paper: SemSeg_Lanes - A Manifold Driving Dataset for Lane Detection and Classification for Autonomous Vehicles. It uses BDD100K dataset as a baseline. We have also provided the codes for conversion. 
+Here we provide the download and pre-processing instructions for the SemSeg_Lanes dataset, which is released through our paper: SemSeg_Lanes - A Manifold Driving Dataset for Lane Detection and Classification for Autonomous Vehicles. It uses the BDD100K dataset as a baseline. We have also provided the codes for conversion. 
 
 ## Main Features
 -76000 annotated images
@@ -9,7 +9,7 @@ Here we provide the download and pre-processing instructions for the BDD_SemSeg_
 ## Attribution
 BDD_SemSeg_Lanes is built upon [BDD100K](https://arxiv.org/abs/1805.04687) Dataset
 
-If you use SemSeg_Lanes dataset, please cite it using the following:
+If you use the SemSeg_Lanes dataset, please cite it using the following:
 
     @ARTICLE {BDD_SemSeg_Lanes,
     author = {Rajalakshmi TS, R Senthilnathan},
@@ -18,7 +18,7 @@ If you use SemSeg_Lanes dataset, please cite it using the following:
     year = {},
     volume = {},
     number = {},
-    issn = {},
+    ISSN = {},
     pages = {},
     keywords = {autonomous driving; lane classification; real-time segmentation; deep learning},
     doi = {},
@@ -51,6 +51,6 @@ Download the dataset in a folder "dataset" and arrange the data in the following
 
 ## Evaluation
 
-Using Paddleseg framework, PP_LiteSeg architecture was trained using our dataset and the following was the inference obtained
+Using the Paddleseg framework, the proposed architecture was trained using our dataset and the following was the inference obtained
 [![inference_result](inference_result.png)](https://drive.google.com/file/d/17WX0eiKi1nLrB3-khpHwwt3SFDOnNPou/view?usp=sharing)
     
