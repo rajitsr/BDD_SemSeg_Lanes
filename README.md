@@ -29,7 +29,7 @@ If you use the SemSeg_Lanes dataset, please cite it using the following:
 
 ## Download
 Upon request, the dataset will be made available. 
-You can download the Train-Val-set videos and annotations from our [Google Drive Folder] 
+You can download the Train-Val-Test data and annotations from our [Google Drive Folder] 
 
 The directory should look like this
 
