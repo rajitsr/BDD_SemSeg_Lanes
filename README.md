@@ -1,6 +1,6 @@
-# BDD_SemSeg_Lanes
+# SemSeg_Lanes
 
-Here we provide the download and pre-processing instructions for the BDD_SemSeg_Lanes dataset, that is released through our paper: BDD_SemSeg_Lanes - A Manifold Driving Dataset for Lane Detection and Classification for Autonomous Vehicles. It uses BDD100K dataset as a baseline. We have also provided the codes for conversion. 
+Here we provide the download and pre-processing instructions for the BDD_SemSeg_Lanes dataset, that is released through our paper: SemSeg_Lanes - A Manifold Driving Dataset for Lane Detection and Classification for Autonomous Vehicles. It uses BDD100K dataset as a baseline. We have also provided the codes for conversion. 
 
 ## Main Features
 -76000 annotated images
@@ -9,12 +9,12 @@ Here we provide the download and pre-processing instructions for the BDD_SemSeg_
 ## Attribution
 BDD_SemSeg_Lanes is built upon [BDD100K](https://arxiv.org/abs/1805.04687) Dataset
 
-If you use BDD_SemSeg_Lanes dataset, please cite it using the following:
+If you use SemSeg_Lanes dataset, please cite it using the following:
 
     @ARTICLE {BDD_SemSeg_Lanes,
     author = {Rajalakshmi TS, R Senthilnathan},
     journal = {},
-    title = {BDD_SemSeg_Lanes - A Manifold Driving Dataset for Lane Detection and Classification for Autonomous Vehicles},
+    title = {SemSeg_Lanes - A Manifold Driving Dataset for Lane Detection and Classification for Autonomous Vehicles},
     year = {},
     volume = {},
     number = {},
